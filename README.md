@@ -57,7 +57,6 @@ Controlled Access: Only people you explicitly share access with can view or cont
 Confidentiality: Ideal for projects that require privacy, such as proprietary software or sensitive data1.
 Collaboration: You can still collaborate with a select group of people without exposing your code to the public1.
 Disadvantages:
-
 Limited Community Input: Private repositories do not benefit from the broader community’s input, which can limit feedback and contributions1.
 Cost: While GitHub offers free private repositories, advanced features and larger team collaborations might require a paid plan1.
 Context of Collaborative Projects
